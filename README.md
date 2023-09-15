@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wade Tsai</h1>
 <h3 align="center">A passionate Firmware / Software developer in Tawian</h3>
 
-- 🔭 I’m currently studying in [NKUST](https://www.nkust.edu.tw/)
+- 🔭 I’m currently studying in [NTUT](https://www.ntut.edu.tw/index.php)
 
 - 🌱 I’m currently **learning Deep Learning / Machine Learning**
 
