@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wade Tsai</h1>
 <h3 align="center">A passionate Firmware / Software developer in Tawian</h3>
 
-- 🔭 I’m currently studying in [NTUT](https://www.ntut.edu.tw/index.php)
+- 🔭 I’m graduated from [NTUT](https://www.ntut.edu.tw/index.php)
 
-- 🌱 I’m currently **learning Deep Learning / Machine Learning**
+- 🌱 I’m currently **working on embedded system and FPGA project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/WadeTsai531](https://github.com/WadeTsai531)
 
